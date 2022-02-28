@@ -1,0 +1,17 @@
+.ui.comments {
+  padding-left: 12px !important;
+  width: 95% !important;
+  max-width: none;
+}
+
+.form-comment-input-edit {
+  display: block;
+  width: 700px;
+  max-width: 50%;
+  padding-left: 0 !important;
+  margin: 10px 0;
+}
+
+.comment-input-edit {
+  padding: 7px !important;
+}

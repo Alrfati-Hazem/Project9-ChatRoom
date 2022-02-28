@@ -1,0 +1,66 @@
+.dashboard {
+  width: 50%;
+  margin: 100px auto 0 auto;
+}
+
+.dashboard-form {
+  margin: 0 auto;
+  background: #cce9f8;
+  padding: 30px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
+.dashboard-form h2 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.dashboard-form .dashboard-button {
+  display: block;
+  text-align: center;
+  margin: 25px auto 0 auto;
+  background-color: #333;
+  color: white;
+  min-width: 120px;
+  width: 30%;
+  font-size: 15px;
+}
+
+.dashboard-form .dashboard-button:hover {
+  background-color: #000;
+  color: white;
+}
+
+textarea {
+  width: 100% !important;
+  padding: 8px 10px;
+}
+
+.dashboard-form textarea::placeholder {
+  color: #555 !important;
+}
+
+.dashboard-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dashboard-box img {
+  display: block;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.dashboard-box .btn {
+  background-color: #048bd0;
+  border-color: #048bd0;
+  width: 100%;
+  text-align: start;
+  border-radius: 20px;
+  box-shadow: none;
+  color: #f8f8f8;
+  padding-left: 17px;
+}
