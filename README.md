@@ -7,5 +7,7 @@
 ### HTML
 ### CSS
 ### Javascript
-### ReactJs
+### ReactJS
 ### Bootstrap
+### PHP
+### MySQL
